@@ -1,0 +1,22 @@
+body {
+  background: #42455a;
+}
+ul{
+    display:inline-flex;
+    margin:50px;
+}
+ul li{
+    list-style-type:none;
+    margin:0 20px;
+    color:#000;
+    cursor:pointer;
+    text-decoration:none;
+}
+.active{
+    color:#19dafa ! important;
+    text-decoration:none;
+}
+ul li a{
+  text-decoration: none;
+  color: #000;
+}
